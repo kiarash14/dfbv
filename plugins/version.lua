@@ -7,16 +7,29 @@
 --------------------------------------------------
 --                                              --
 --       Developers: @Josepdal & @MaSkAoS       --
---     Support: @Skneos,  @iicc1 & @serx666     --
+--         Support: @Skneos & @Thef7HD          --
 --                                              --
 --------------------------------------------------
 
 do
 
 function run(msg, matches)
-  return 'DBTeam Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot \n\nhttp://github.com/Josepdal/DBTeam\n\nDevelopers :\n@MaSkAoS\n@Josepdal\n\nSupport :\n@skneos\n@iicc1\n@Serx666' 
-  --[[ Checkout https://github.com/Josepdal/DBTeam
-  --GNU GPL v2 license.]]
+  return 'TeleBumper Bot V5 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot \n\nhttp://s7.picofile.com/file/8234722668/Bumper :\n@Kiarash_gh14\n\n\nSupport :\n@TeleBumper\n\n@TeleBumperCh' 
+  --[[ TeleBumper v5
+        
+  --http://s7.picofile.com/file/8234722668/Bumper
+
+
+  --Sudo:
+  --@kiarash_gh1 [Manager]
+
+
+  --Id Bot
+  --@TeleBumper 
+
+  --Id Channel
+  --@Bumperch
+]]
 end
 
 return {
